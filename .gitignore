@@ -1,0 +1,15 @@
+# Backend
+/backend/target
+/backend/.mvn
+/backend/mvnw*
+/backend/*.iml
+
+# Frontend
+/frontend/node_modules
+/frontend/.expo
+/frontend/.expo-shared
+/frontend/.vscode
+/frontend/dist
+
+# System
+.DS_Store
